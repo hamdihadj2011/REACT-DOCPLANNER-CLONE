@@ -2,7 +2,7 @@
   "name": "docplanner",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/hamdihadj2011/REACT-DOCPLANNER-CLONE",
+  "homepage": "https://hamdihadj2011.github.io/REACT-DOCPLANNER-CLONE/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
