@@ -1,0 +1,15 @@
+.prg{
+    display: flex;
+    justify-content: center;
+    width: 950px;
+    margin:0 auto
+}
+
+.pr{
+    width: 74%;
+    margin-right: 28px;
+    text-align: left;
+    line-height: 1.8;
+    font-size: 14px;
+    color: gray
+}

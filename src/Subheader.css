@@ -1,0 +1,19 @@
+.subh{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 120px auto 0;
+    padding-bottom: 10pxs
+}
+
+.subh img{
+    width: 3%
+}
+
+.subh p{
+    font-size: 32px;
+    color: #00BFA5;
+    font-weight: bold
+}

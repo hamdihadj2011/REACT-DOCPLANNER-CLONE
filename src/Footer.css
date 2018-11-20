@@ -1,0 +1,17 @@
+.footer-flex{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: #848484;
+    font-size: 12px;
+}
+
+.footer-flex p{
+    line-height: 0.2;
+    font-size: 14px
+}
+
+.footer-flex p a{
+    font-size: 14px;
+    color: blue
+}

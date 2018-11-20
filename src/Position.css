@@ -1,0 +1,41 @@
+.position{
+    background-color: #00C3A5;
+    display: flex;
+    background-image:url('./images/doc-planner.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: 13%;
+    background-position-y: 260px;
+    padding-left: 15%
+}
+
+.poses-text p{
+    color:#08ffdd;
+    font-size: 20px
+}
+.poses{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-left: 108px;
+}
+
+.poses div{
+    width: 31%;
+    margin-right: 26px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+    height: 257px;
+}
+.poses div p{
+    font-size: 1.8461538462em;
+    color: #00b39b;
+    margin: .5em 0;
+}
+.poses img{
+    width: 14%;
+    height: 10%;
+}

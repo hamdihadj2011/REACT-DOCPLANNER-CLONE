@@ -1,0 +1,28 @@
+.links1{
+    display: flex;
+}
+
+.company{
+    display: flex;
+    /* flex-wrap: wrap; */
+    width: 950px;
+    margin: 27px auto
+}
+
+.company p{
+    width: 29%;
+    margin: 0;
+    margin-right: 46px;
+    font-size: 22px;
+    color: #00BFA5;
+    font-weight: 500
+}
+
+.links1{
+    display: flex;
+    flex-wrap: wrap
+}
+
+.links1 img{
+    width: 10%
+}
